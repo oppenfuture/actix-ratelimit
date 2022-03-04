@@ -24,8 +24,8 @@ memcached = ["r2d2-memcache", "backoff"]
 
 [dependencies]
 log = "0"
-actix-web = {version = "4.0.0-rc.3"}
-actix-http = {version = "3.0.0-rc.3"}
+actix-web = {version = "4"}
+actix-http = {version = "3"}
 actix = "0"
 futures = "0"
 thiserror = "1"
